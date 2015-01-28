@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\LBM\Lattice Boltzmann Method\Fortran\Programas\2D\Lid-Driven Cavity\Lid MRT\MRTLid.F95(10) : warning 868 - Opening unit 2 may affect the operation of output to the default unit '*' - are you sure you want to do this?
+C:\Users\Usuario\Desktop\LBM\Lattice Boltzmann Method\Fortran\Programas\2D\Lid-Driven Cavity\Lid MRT\MRTLid.F95(4) : warning 197 - Variable FEQ has been declared but not used
+C:\Users\Usuario\Desktop\LBM\Lattice Boltzmann Method\Fortran\Programas\2D\Lid-Driven Cavity\Lid MRT\MRTLid.F95(5) : warning 242 - Variable W has been given a value but never used
+C:\Users\Usuario\Desktop\LBM\Lattice Boltzmann Method\Fortran\Programas\2D\Lid-Driven Cavity\Lid MRT\MRTLid.F95(13) : warning 242 - Variable DX has been given a value but never used
+C:\Users\Usuario\Desktop\LBM\Lattice Boltzmann Method\Fortran\Programas\2D\Lid-Driven Cavity\Lid MRT\MRTLid.F95(14) : warning 242 - Variable DY has been given a value but never used
+C:\Users\Usuario\Desktop\LBM\Lattice Boltzmann Method\Fortran\Programas\2D\Lid-Driven Cavity\Lid MRT\MRTLid.F95(15) : warning 242 - Variable DT has been given a value but never used
+Creating executable: C:\Users\Usuario\Desktop\LBM\Lattice Boltzmann Method\Fortran\Programas\2D\Lid-Driven Cavity\Lid MRT\MRTLid.EXE
